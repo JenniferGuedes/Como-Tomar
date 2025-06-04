@@ -108,17 +108,17 @@
                 <tr>
                     <td style="text-align: center;">Como tomar?: <br>                      
                         <figure>
-                            <img src="./assets/Plate breakfast.png" width="80" style="float: left;" alt="Pílulas">
+                            <img src="./assets/Plate breakfast.png" width="80" style="float: left;" alt="Prato cafe">
                                                  
                         </figure>
                                            
                         <figure>
-                            <img src="./assets/Plate lunch.png" width="80" style="float: left;" alt="Pílulas">                     
+                            <img src="./assets/Plate lunch.png" width="80" style="float: left;" alt="Prato almoco">                     
                         </figure>
                        
                     
                         <figure>
-                            <img src="./assets/Plate Night.png" width="75" style="float: left;" alt="Pílulas">
+                            <img src="./assets/Plate Night.png" width="75" style="float: left;" alt="Prato janta">
                        
                         </figure>
                         
