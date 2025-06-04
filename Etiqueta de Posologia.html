@@ -96,7 +96,7 @@
                         </figure>
 
                         <figure>
-                            <img src="./assets/eyedrops.jpg" width="50" style="float: inline-start;" alt="Colírio">                        
+                            <img src="./assets/eyedrops1.jpg" width="50" style="float: inline-start;" alt="Colírio">                        
                         </figure>
                         </td>
                     </form>
