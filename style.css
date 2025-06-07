@@ -1,0 +1,37 @@
+
+/*Fundo da página*/
+body{
+    background-color: #ccc;
+}
+
+/*Título, Acessibilidade, e Rodapé*/
+h2{
+    color:brown;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+summary{
+    color:brown;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    text-align: center;
+}
+
+footer{
+    color:brown;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;  
+    text-align: center; 
+}
+
+/*Tabela*/
+table {
+  margin-left: 500px;
+  width: 360px;
+  background-color: bisque;
+  border-style: double;
+  border-color: brown;
+  border-radius: 10px;
+}
