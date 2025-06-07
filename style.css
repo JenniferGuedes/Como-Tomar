@@ -28,9 +28,8 @@ footer{
 
 /*Tabela*/
 table {
-  margin-left: 500px;
-  width: 360px;
-  background-color: bisque;
+  margin:0 auto;
+  background:linear-gradient(to right, #FFE4C4, #e2725b);
   border-style: double;
   border-color: brown;
   border-radius: 10px;
